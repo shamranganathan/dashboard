@@ -1,0 +1,21 @@
+mongodb atlas cluster
+username:shambhavi
+password:anushambhavi
+mongodb+srv://shambhavi:<anushambhavi>@cluster1.qps07ph.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+
+"mongodb+srv://shambhavi:anushambhavi@cluster1.qps07ph.mongodb.net/subscribers";
+
+
+
+frontend project
+https://resume-build-iota.vercel.app/
+https://github.com/shamranganathan/ResumeBuild.git
+https://www.loom.com/share/06aa39ec5c914c318921e27f56edfb90?sid=7df2e838-13d8-4891-96db-513f9f7ea5fb
+
+
+Backend project
+https://github.com/shamranganathan/youtubesubc.git
+https://youtubesubc.onrender.com 
+https://www.loom.com/share/e1479e2ae8e5452c8221c28fc208878b?sid=3283dc14-2e6c-4849-9364-deb20aa37b50
+
+https://docs.google.com/document/d/1EjKQMkEcN_EhQPdjQZedgB6Un8ViMYep/edit?usp=sharing&ouid=112342722928320727730&rtpof=true&sd=true
